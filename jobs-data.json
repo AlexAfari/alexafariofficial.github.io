@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Full Stack Developer",
+      "company": "Acme Corporation",
+      "location": "San Francisco, CA",
+      "description": "Acme Corporation is seeking a full stack developer with experience in React and Node.js. The ideal candidate will have a strong background in web development and be able to work independently as well as part of a team."
+    },
+    {
+      "id": 2,
+      "title": "Front End Developer",
+      "company": "XYZ Company",
+      "location": "New York, NY",
+      "description": "XYZ Company is seeking a front end developer with experience in HTML, CSS, and JavaScript. The ideal candidate will have a strong portfolio of web development projects and be able to work collaboratively with designers and back-end developers."
+    },
+    {
+      "id": 3,
+      "title": "Backend Engineer",
+      "company": "ABC Industries",
+      "location": "Seattle, WA",
+      "description": "ABC Industries is seeking a backend engineer with experience in Python and database design. The ideal candidate will have a strong understanding of distributed systems and be able to design and implement scalable solutions."
+    }
+  ]
+  
